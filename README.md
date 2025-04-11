@@ -86,7 +86,7 @@ Total cost: 25
 2. Create a new branch for your feature:
    ```bash
    git checkout -b feature-name
-   ```
+   ``
 3. Commit your changes:
    ```bash
    git commit -m "Add feature description"
@@ -101,5 +101,5 @@ Total cost: 25
 
 ## Contact
 
-For questions or support, please contact Ghertil Abdelmalek at [ghertilmalik10@gmail.com](mailto\:malikghertil10@gmail.com).
+For questions or support, please contact Ghertil Abdelmalek at [malikghertil10@gmail.com](mailto\:malikghertil10@gmail.com).
 
